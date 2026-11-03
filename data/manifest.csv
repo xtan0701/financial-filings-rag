@@ -1,0 +1,4 @@
+file,company,fiscal_year_end,pages,bytes,sha256
+filings/alphabet-2024-10k.pdf,Alphabet,2024-12-31,99,973387,3a2de615984a4fa9fd382fdb1fb3a40dfd17d21b51486f2e03015214b68454a9
+filings/amazon-2024-10k.pdf,Amazon,2024-12-31,89,754569,5b582c59f1d1fa81d5112c9e0b9aa87afdbc9f42418daace257bc360e0f61ef7
+filings/microsoft-2024-10k.pdf,Microsoft,2024-06-30,221,10841428,a3aaf1af195b829fd1d01f1ef81aab7019d649db3b6b3f52a6839955b2116d45

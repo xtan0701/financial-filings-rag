@@ -1,0 +1,11 @@
+# Preserve the LangChain 0.3 API used by the implemented experiments.
+streamlit>=1.40,<1.51
+langchain>=0.3.27,<0.4
+langchain-community>=0.3.27,<0.4
+langchain-openai>=0.3,<0.4
+langchain-google-genai>=2.0.10,<2.1
+langchain-ollama>=0.3,<0.4
+google-generativeai>=0.8,<0.9
+openai>=1.68,<2
+faiss-cpu>=1.9,<2
+pypdf>=6.1,<7

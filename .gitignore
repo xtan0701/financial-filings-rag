@@ -1,0 +1,19 @@
+# Local source packages are retained, never published.
+/Chatbot-AIEB-main/
+/Final Codes/
+/10kFiles-20250311T192352Z-001/
+/Final project*
+/QA.txt
+*.zip
+.local-tools/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.log
+.DS_Store
+Thumbs.db
