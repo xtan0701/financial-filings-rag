@@ -1,6 +1,6 @@
 # Implemented experiments
 
-All paths below are maintained as reviewable technical alternatives. Exact duplicates and credential-only differences have a single public implementation. All distinct model, prompt, retrieval, and chunking variants found in the source files and ZIP members are represented. Historical originals remain local, outside the public file set.
+All paths below are maintained as reviewable technical alternatives. Exact duplicates and credential-only differences have a single public implementation. All distinct model, prompt, retrieval, and chunking variants found in the source files and ZIP members are represented.
 
 Chunk sizes and overlaps are **characters**, not tokens. `MMR` below means `k=4`, `fetch_k=20`, `lambda_mult=0.7`. Defaults mean the application leaves that setting to its dependency version.
 

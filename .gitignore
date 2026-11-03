@@ -1,4 +1,4 @@
-# Local source packages are retained, never published.
+# Exclude source archives and local runtime artifacts.
 /Chatbot-AIEB-main/
 /Final Codes/
 /10kFiles-20250311T192352Z-001/
